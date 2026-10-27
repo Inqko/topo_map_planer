@@ -1,0 +1,37 @@
+{
+  "coordinate_convention": "habitat_absolute_reference_v1",
+  "correction_angle": 2.49,
+  "created_at": "2026-08-07T12:03:31.194425",
+  "episode": "2n8kARJN3HM",
+  "episode_config": "/data/datasets/mp3d_toposlam/2n8kARJN3HM.json.gz",
+  "map_id": "2n8kARJN3HM",
+  "reference_height": 2.26,
+  "reference_transform": [
+    [
+      -1.0,
+      0.0,
+      0.0,
+      3.79
+    ],
+    [
+      0.0,
+      -1.0,
+      0.0,
+      2.26
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      14.29
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "scene": "2n8kARJN3HM",
+  "version": 1
+}
